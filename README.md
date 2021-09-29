@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# _Pranav Swaroop G_ - Resume
+
+**About Me**
+
+I am a IT rofessional working currently in Test Automaton for a MNC. 
 
 You can use the [editor on GitHub](https://github.com/pranavworks/pranavworks.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
